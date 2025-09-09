@@ -11,3 +11,7 @@ def somar (num1, num2):
 def subtrair (num1, num2):
     subtrair= num1 - num2
     return subtrair
+
+def multiplicar (num1, num2):
+    multiplicar= num1 * num2
+    return multiplicar
